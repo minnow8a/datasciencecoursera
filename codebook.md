@@ -23,6 +23,7 @@ These signals were used to estimate variables of the feature vector for each pat
 
  **activity**:
  	The activity when conducting the measurement. There were six different activities which each volunteer participated in:
+ 	
  	1. WALKING
  	2. WALKING_UPSTAIRS
  	3. WALKING_DOWNSTAIRS
